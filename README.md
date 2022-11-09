@@ -2,10 +2,10 @@
 Bash script DefensiveDGR.sh downloads the data required, performs the analyses, and draws figures. Figure 9 was created manually with clinker 0.0.21. If all the dependencies are installed simply type in terminal 'bash DefensiveDGR.sh' and wait.
 It works in Ubuntu 18.04.6 LTS
 
-List of dependencies:\n
-python 3.8.5
-\tnumpy 1.20.3
-  matplotlib 3.4.3
+List of dependencies: 
+ python 3.8.5
+   numpy 1.20.3
+   matplotlib 3.4.3
   upsetplot 0.5.0
   Biopython 1.78
   scipy 1.6.2
