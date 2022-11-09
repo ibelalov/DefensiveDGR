@@ -15,7 +15,7 @@ python 3.8.5
 * scipy 1.6.2
 * pandas 1.3.2
 
-This programs should be installed system-wide
+This programs should be installed system-wide:
 
 * prodigal 2.6.3
 * chips from EMBOSS:6.6.0.0
