@@ -3,8 +3,8 @@ Bash script DefensiveDGR.sh downloads the data required, performs the analyses, 
 It works in Ubuntu 18.04.6 LTS
 
 List of dependencies: 
- python 3.8.5
- numpy 1.20.3
+-python 3.8.5
+-numpy 1.20.3
    matplotlib 3.4.3
   upsetplot 0.5.0
   Biopython 1.78
