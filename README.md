@@ -1,6 +1,8 @@
 # DefensiveDGR
-Bash script DefensiveDGR.sh downloads the data required, performs the analyses, and draws figures. Figure 9 was created manually with clinker 0.0.21. If all the dependencies are installed simply type in terminal 'bash DefensiveDGR.sh' and wait.
-It works in Ubuntu 18.04.6 LTS
+Bash script DefensiveDGR.sh downloads the data required, performs the analyses, and draws figures. It works in Ubuntu 18.04.6 LTS. Figure 9 was created manually with clinker 0.0.21. If all the dependencies are installed simply type in terminal:
+```sh
+  bash DefensiveDGR.sh
+  ```' and wait.
 
 List of dependencies:
 
