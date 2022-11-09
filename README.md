@@ -3,6 +3,7 @@ Bash script DefensiveDGR.sh downloads the data required, performs the analyses, 
 It works in Ubuntu 18.04.6 LTS
 
 List of dependencies:
+
 python 3.8.5
   numpy 1.20.3
   matplotlib 3.4.3
@@ -12,5 +13,6 @@ python 3.8.5
   pandas 1.3.2
 
 This programs should be installed system-wide
+
 prodigal 2.6.3
 chips from EMBOSS:6.6.0.0
