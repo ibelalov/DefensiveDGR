@@ -16,7 +16,7 @@ python 3.8.5
 * pandas 1.3.2
 * argparse 1.4.0
 
-R version 4.1.2 (2022-03-10)
+R 4.1.2
 * data.table 1.14.0
 * dplyr 1.0.6
 * tidyr 1.1.3
