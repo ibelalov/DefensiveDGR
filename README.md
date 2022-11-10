@@ -3,7 +3,7 @@ Bash script DefensiveDGR.sh downloads the data required, performs the analyses, 
 ```sh
   bash DefensiveDGR.sh
   ```
-and wait. The analyses completed in seven days on our desktop computer
+and wait. The analyses were completed in seven days on our desktop computer
 
 List of dependencies:
 
